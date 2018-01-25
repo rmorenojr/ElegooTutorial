@@ -1,6 +1,7 @@
-TITLE:  Lesson 5 – Digital Inputs
+# Lesson 5 – Digital Inputs
 
 A beginner's guide to the Most Complete Starter Kit by Elegoo.  Lesson 5 – Digital Inputs
+     Video located here: https://www.youtube.com/watch?v=rbeHQ80dux8
 
 Hello everyone, I'm Rick the Tech Enthusiast again, with the next Lesson number 5 “Digital Inputs”.  This is the next lesson on my Arduino UNO Series covering the Most Complete Starter Kit by Elegoo.   I try to follow the tutorial closely, without overburdening the viewer with every detail, but I will point out any changes or corrections as I find them.
 
