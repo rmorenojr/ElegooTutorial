@@ -1,15 +1,15 @@
 # ElegooTutorial
 Lesson 4 - RGB LED
 
-A beginner's guide to the Most Complete Starter Kit by Elegoo.  Lesson 4 ñ RGB LED
+A beginner's guide to the Most Complete Starter Kit by Elegoo.  Lesson 4 ‚Äì RGB LED
 
-Hello everyone, I'm Rick the Tech Enthusiast again, with the next Lesson number 4 ìRGB LEDî.  This is the next lesson on my Arduino UNO Series covering the Most Complete Starter Kit by Elegoo.   Now, I try to follow the tutorial closely, without overburdening the viewer with every detail, but I will point out any changes or corrections as I find them.
+Hello everyone, I'm Rick the Tech Enthusiast again, with the next Lesson number 4 ‚ÄúRGB LED‚Äù.  This is the next lesson on my Arduino UNO Series covering the Most Complete Starter Kit by Elegoo.   Now, I try to follow the tutorial closely, without overburdening the viewer with every detail, but I will point out any changes or corrections as I find them.
 
-As mentioned before, I recently purchased this Arduino UNO R3 kit by Elegoo.  Iím pronouncing it El-E-Goo, I hope thatís right.  No, Elegoo isn't sponsoring me.  I just thought it would be fun to do a video of each Lesson as I was learning the Arduino environment. 
+As mentioned before, I recently purchased this Arduino UNO R3 kit by Elegoo.  I‚Äôm pronouncing it El-E-Goo, I hope that‚Äôs right.  No, Elegoo isn't sponsoring me.  I just thought it would be fun to do a video of each Lesson as I was learning the Arduino environment. 
 
-In this video, weíll need a few things from your Elegoo Arduino kit.  Iíll list the items below.  In this lesson weíre going to learn how to change the colors of the RGB LED with the Arduino using PWM (pulse width modulation).  I step through the Elegoo code to explain how it makes this happen.  Then I expand on the idea with a revised sketch.  The new sketch has three different methods of making colors with the RGB LED. The first method was inspired by HowToMechatronic.com.  By using a function call we greatly simplify the code and make everything more readable.  Next, I rewrite the three ìfor loopsî that was included in the original code.  And third, I create a single ìdo loopî or ìdo while loopî to cycle through all the colors in a single loop.  Best of all, Iíve added Serial.begin and Serial.print statements to view and diagnose the code in the Serial Monitor.  I hope you like the Lesson, it was a lot of fun to make.
+In this video, we‚Äôll need a few things from your Elegoo Arduino kit.  I‚Äôll list the items below.  In this lesson we‚Äôre going to learn how to change the colors of the RGB LED with the Arduino using PWM (pulse width modulation).  I step through the Elegoo code to explain how it makes this happen.  Then I expand on the idea with a revised sketch.  The new sketch has three different methods of making colors with the RGB LED. The first method was inspired by HowToMechatronic.com.  By using a function call we greatly simplify the code and make everything more readable.  Next, I rewrite the three ‚Äúfor loops‚Äù that was included in the original code.  And third, I create a single ‚Äúdo loop‚Äù or ‚Äúdo while loop‚Äù to cycle through all the colors in a single loop.  Best of all, I‚Äôve added Serial.begin and Serial.print statements to view and diagnose the code in the Serial Monitor.  I hope you like the Lesson, it was a lot of fun to make.
 
-Parts youíll need:
+Parts you‚Äôll need:
 
 Arduino UNO R3 board
 RGB LED (the only LED in the kit with four leads)
@@ -20,21 +20,22 @@ And the breadboard
 I should also mention that Paul McWhorter has a great programming series for the Arduino UNO.  You should check it out.
 https://www.youtube.com/watch?v=d8_xXNcGYgo&list=PLGs0VKk2DiYx6CMdOQR_hmJ2NbB4mZQn-
  
-The next lesson will be Lesson 5 ñ Digital Inputs  
+The next lesson will be Lesson 5 ‚Äì Digital Inputs  
 
 Links:
 
-Elegoo on Amazonís web site:
-https://www.amazon.com/gp/product/B01CZTLHGE/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1
+Elegoo EL-KIT-001 UNO R3 Project Complete Starter Kit with Tutorial for Arduino (63 Items)
+on Amazon‚Äôs web site:
+https://www.amazon.com/gp/product/B01CZTLHGE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01CZTLHGE&linkCode=as2&tag=rmorenojr-20&linkId=ac3601531bad9439bc32c77b0088b741
 
-Elegooís web site
+Elegoo‚Äôs web site
 https://www.elegoo.com/
 https://www.elegoo.com/product/elegoo-uno-r3-project-complete-starter-kit/
 
 Frtizing Software:
 http://fritzing.org/download/
 
-LESSON 13: Controlling an RGB LED with Arduino ñ by Paul McWhorter
+LESSON 13: Controlling an RGB LED with Arduino ‚Äì by Paul McWhorter
 https://www.youtube.com/watch?v=gqAHOoqo3OI
 
 Arduino Language Reference (English):
