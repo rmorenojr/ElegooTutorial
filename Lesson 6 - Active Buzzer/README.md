@@ -24,6 +24,7 @@ This lesson’s sketch and associated drawings can be found at Github:
 https://github.com/rmorenojr/ElegooTutorial
  
 <a target="_blank" href="https://www.amazon.com/gp/product/B01CZTLHGE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01CZTLHGE&linkCode=as2&tag=rmorenojr-20&linkId=ac3601531bad9439bc32c77b0088b741">Elegoo EL-KIT-001 UNO R3 Project Complete Starter Kit with Tutorial for Arduino (63 Items)</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=rmorenojr-20&l=am2&o=1&a=B01CZTLHGE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 Elegoo’s web site:
 https://www.elegoo.com/
 https://www.elegoo.com/product/elegoo-uno-r3-project-complete-starter-kit/
