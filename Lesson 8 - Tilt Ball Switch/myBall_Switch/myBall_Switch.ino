@@ -2,7 +2,7 @@
 //2016.12.08
 /*****************************************/
 //Using predefined LED_BUILTIN = 13
-const int tiltSensorPin = 2;             //the tilt bal switch pin
+const int tiltSensorPin = 2;             //the tilt ball switch pin
 
 void setup()
 { 
