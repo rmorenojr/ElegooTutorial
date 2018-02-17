@@ -55,9 +55,28 @@ https://www.arduino.cc/reference/en/
 https://www.arduino.cc/reference/en/language/functions/external-interrupts/attachinterrupt/
 Switch Case control
 https://www.arduino.cc/reference/en/language/structure/control-structure/switchcase/
-Arduino LiquidCrystal web page
-https://www.arduino.cc/en/Reference/LiquidCrystal
-https://github.com/codebendercc/arduino-library-files/tree/master/libraries/LiquidCrystal
+Pin Change Interrupt:
+http://playground.arduino.cc/Main/PinChangeInterrupt
+Port Registers:
+https://www.arduino.cc/en/Reference/PortManipulation
+
+How to Use a Rotary Encoder in an MCU-Based Project
+https://www.allaboutcircuits.com/projects/how-to-use-a-rotary-encoder-in-a-mcu-based-project/
+Efficiently Reading Quadrature with Interrupts BY MAKEATRONICS
+http://makeatronics.blogspot.com/2013/02/efficiently-reading-quadrature-with.html
+Tutorial: Using Servo Motors and Analog Inputs with the Arduino
+https://www.youtube.com/watch?v=qatqVNh9uj4
+How Rotary Encoder Works and How To Use It with Arduino
+https://www.youtube.com/watch?v=v4BbSzJ-hz4
+Rotary Encoder Tutorial with Arduino Code
+https://www.youtube.com/watch?v=HQuLZHsGZdI
+Arduino UNO Tutorial 6 - Rotary Encoder
+http://www.hobbytronics.co.uk/arduino-tutorial6-rotary-encoder
+Hands On Arduino 5A: SPI Communication BY Robert Paz
+https://www.youtube.com/watch?v=Fj8IuivkQWI
+Interrupts BY Nick Gammon  
+http://gammon.com.au/interrupts
+
 
 Music provided by Free Music Archive, by artist Jahzzar
 Jahzzar_-_04_-_Magic_Mountain
