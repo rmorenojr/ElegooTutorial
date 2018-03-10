@@ -27,14 +27,13 @@ The next lesson will be Lesson 5 – Digital Inputs
 
 <a target="_blank" href="https://www.amazon.com/gp/product/B01CZTLHGE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01CZTLHGE&linkCode=as2&tag=rmorenojr-20&linkId=ac3601531bad9439bc32c77b0088b741">Elegoo EL-KIT-001 UNO R3 Project Complete Starter Kit with Tutorial for Arduino (63 Items)</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=rmorenojr-20&l=am2&o=1&a=B01CZTLHGE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-Elegoo’s web site
-https://www.elegoo.com/
-https://www.elegoo.com/product/elegoo-uno-r3-project-complete-starter-kit/
+[Elegoo’s web site](https://www.elegoo.com/)
+
+[Elegoo's Complete Starter Kit](https://www.amazon.com/gp/product/B01CZTLHGE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01CZTLHGE&linkCode=as2&tag=rmorenojr-20&linkId=ac3601531bad9439bc32c77b0088b741) - [web site](https://www.elegoo.com/product/elegoo-uno-r3-project-complete-starter-kit/)
 
 [Frtizing Software](http://fritzing.org/download/)
 
 [LESSON 13: Controlling an RGB LED with Arduino](https://www.youtube.com/watch?v=gqAHOoqo3OI) – by Paul McWhorter
-
 
 [Arduino Language Reference](https://www.arduino.cc/reference/en/)
 
