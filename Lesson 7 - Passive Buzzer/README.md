@@ -1,8 +1,8 @@
-# ElegooTutorial
+﻿# ElegooTutorial
 
-Lesson 7 – Passive Buzzer and Happy Birthday, Imperial March, and Super Mario melody player with 3-Way Polyphony
+## Lesson 7 – Passive Buzzer and Happy Birthday, Imperial March, and Super Mario melody player with 3-Way Polyphony
 
-YouTube video:  https://youtu.be/X-3AoN8Subk
+[YouTube video](https://youtu.be/X-3AoN8Subk)
 
 A beginner's guide to the Most Complete Starter Kit by Elegoo.  Lesson 7 – Passive Buzzer
 
@@ -14,26 +14,29 @@ For this video, we’ll need a few things from your Elegoo Arduino kit.  I’ll 
 
 I hope you like the Lesson, it was a lot of fun to make.
 
-Parts you’ll need for the basic tutorial:
-Arduino UNO R3 board
-Passive Buzzer (that the one without a white sticker on it – you’ll need two more if you want to do the bonus sketch)
-One diode (5 are provided in the kit)
-One 100-ohm resistor
-Several jumpers
-Breadboard
+### Parts you’ll need for the basic tutorial
 
-The Bonus Music Player parts are:
-Arduino UNO R3 board
-Three passive buzzers (links are provided below)
-Three 100-ohm resistors
-Three 1N4007 diode 
-5mm Red LED
-5mm Yellow LED
-5mm Green LED
-Three 220-ohm resistors
-Various jumper wires
-Mini breadboard
-Elegoo prototype board
+* Arduino UNO R3 board
+* Passive Buzzer (that the one without a white sticker on it – you’ll need two more if you want to do the bonus sketch)
+* One diode (5 are provided in the kit)
+* One 100-ohm resistor
+* Several jumpers
+* Breadboard
+
+### The Bonus Music Player parts
+
+* Arduino UNO R3 board
+* Three passive buzzers (links are provided below)
+* Three 100-ohm resistors
+* Three 1N4007 diode 
+* 5mm Red LED
+* 5mm Yellow LED
+* 5mm Green LED
+* Three 220-ohm resistors
+* Various jumper wires
+* Mini breadboard
+* Elegoo prototype board
+
 The next lesson will be Lesson 8 – Tilt Ball Switch and the Magic 8-Ball  
 
 Links:

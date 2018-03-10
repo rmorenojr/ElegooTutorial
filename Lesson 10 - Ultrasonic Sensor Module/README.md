@@ -1,7 +1,8 @@
-#Lesson 10 – Ultrasonic Sensor Module
+# ElegooTutorial
 
+## Lesson 10 – Ultrasonic Sensor Module
 
-YouTube video: https://youtu.be/URi7Eh26VRY
+[YouTube video](https://youtu.be/URi7Eh26VRY)
 
 A beginner's guide to the Most Complete Starter Kit by Elegoo.  Lesson 10 – Ultrasonic Sensor Module 
 
@@ -11,26 +12,28 @@ As mentioned before, I purchased this Elegoo starter kit.  I’m pronouncing it El
 
 For this video, we’ll need a few things from your Elegoo Arduino kit.  I’ll list the items below.  In this lesson we’re going to learn about the Ultrasonic Sensor Module provided in the kit and how to use it in our projects.  I step through the Elegoo provided code, which uses a Library, and explain how it makes this happen.  Then I develop a sketch, without the need of a Library, to fully demonstrate how the sensor module works.  I discuss a little about the speed of sound, and finally I create a circuit that includes a display and an interrupt driven button to switch modes.  I run across a few issues and the solutions to fix them.   Fun project, I hope you enjoy it. 
 
-Parts you’ll need for the basic tutorial:
-*Elegoo Arduino UNO R3 board
-*Ultrasonic Sensor Module HC-SR04
-*Four male-to-male jumpers
-*Breadboard
-*Miscellaneous breadboard jumpers
-*Temperature gauge
-*And a ruler
+### Parts you’ll need for the basic tutorial
 
-I add the following additional items later in the lesson:
-*LCD 1602 16x2 screen module
-*10K potentiometer
-*Tactile push button switch
-*And a few more male-to-male jumpers and breadboard jumpers 
+* Elegoo Arduino UNO R3 board
+* Ultrasonic Sensor Module HC-SR04
+* Four male-to-male jumpers
+* Breadboard
+* Miscellaneous breadboard jumpers
+* Temperature gauge
+* And a ruler
+
+### Additional items needed
+
+* LCD 1602 16x2 screen module
+* 10K potentiometer
+* Tactile push button switch
+* And a few more male-to-male jumpers and breadboard jumpers 
 
 The next lesson will be Lesson 11 – Membrane Switch Module 
 
-Links:
-This lesson’s sketch and associated drawings can be found at Github:
-https://github.com/rmorenojr/ElegooTutorial
+### Links
+
+This lesson’s sketch and associated drawings can be found at [Github](https://github.com/rmorenojr/ElegooTutorial)
 
 <!-- LCD1602 Module with 3.3V Backlight 16x2 Character White on Blue Background by SunFounder -->
 <a target="_blank" href="https://www.amazon.com/gp/product/B071Y6JX3H/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B071Y6JX3H&linkCode=as2&tag=rmorenojr-20&linkId=81e6c312179be2b149bf6eeae0051f14">SunFounder LCD1602 Module with 3.3V Backlight for Arduino Uno R3 Mega2560 Raspberry Pi 16x2 Character White on Blue Background</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=rmorenojr-20&l=am2&o=1&a=B071Y6JX3H" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -41,24 +44,23 @@ https://github.com/rmorenojr/ElegooTutorial
 Elegoo’s web site: https://www.elegoo.com/
 https://www.elegoo.com/product/elegoo-uno-r3-project-complete-starter-kit/
 
-Fritzing Software: http://fritzing.org/download/
+[Fritzing Software](http://fritzing.org/download/)
 
-Arduino Language Reference (English): https://www.arduino.cc/reference/en/
-https://www.arduino.cc/reference/en/language/functions/external-interrupts/attachinterrupt/
-Switch Case control: https://www.arduino.cc/reference/en/language/structure/control-structure/switchcase/
-Pin Change Interrupt: http://playground.arduino.cc/Main/PinChangeInterrupt
-Port Registers: https://www.arduino.cc/en/Reference/PortManipulation
+[Arduino Language Reference (English)](https://www.arduino.cc/reference/en/)
+[External Interrupts](https://www.arduino.cc/reference/en/language/functions/external-interrupts/attachinterrupt/)
+[Switch Case control](https://www.arduino.cc/reference/en/language/structure/control-structure/switchcase/)
+[Pin Change Interrupt](http://playground.arduino.cc/Main/PinChangeInterrupt)
+[Port Registers](https://www.arduino.cc/en/Reference/PortManipulation)
 
-LESSON 17: Measure Speed of Sound with Arduino and Ultrasonic Sensor  https://www.youtube.com/watch?v=eaHRHQ5Ca_U
-Lesson 18: Measure Distance with Arduino and Ultrasonic Sensor by Paul McWhorter  https://www.youtube.com/watch?v=rTM5gZxBPmY
-Interrupts BY Nick Gammon  http://gammon.com.au/interrupts
-Speed of Sound in Air  http://hyperphysics.phy-astr.gsu.edu/hbase/Sound/souspe.html
-Speed of Sound Wikipedia  https://en.wikipedia.org/wiki/Speed_of_sound#Details
+[LESSON 17: Measure Speed of Sound with Arduino and Ultrasonic Sensor](https://www.youtube.com/watch?v=eaHRHQ5Ca_U)
+[Lesson 18: Measure Distance with Arduino and Ultrasonic Sensor by Paul McWhorter](https://www.youtube.com/watch?v=rTM5gZxBPmY)
+[Interrupts BY Nick Gammon](http://gammon.com.au/interrupts)
+[Speed of Sound in Air](http://hyperphysics.phy-astr.gsu.edu/hbase/Sound/souspe.html)
+[Speed of Sound Wikipedia](https://en.wikipedia.org/wiki/Speed_of_sound#Details)
 
 
 Music provided by Free Music Archive, by artist Jahzzar
-Jahzzar_-_04_-_Roller-skate 
-http://freemusicarchive.org/music/Jahzzar/
+[Jahzzar_-_04_-_Roller-skate](http://freemusicarchive.org/music/Jahzzar/)
 
 This is another video for my new Arduino tutorial series. If you like the series, be sure to rate and subscribe.
 
