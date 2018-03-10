@@ -1,10 +1,10 @@
-﻿# ElegooTutorial
+# ElegooTutorial
 
 ## Lesson 6 – Active Buzzer and Morse Code Translator
 
 [YouTube Video](https://youtu.be/RKejZWnCWx8)
 
-A beginner's guide to the Most Complete Starter Kit by Elegoo.  ** Lesson 6 – Active Buzzer **
+A beginner's guide to the Most Complete Starter Kit by Elegoo.  **Lesson 6 – Active Buzzer**
 
 Hello everyone, I'm Rick the Tech Enthusiast again, with the next Lesson number 6 “Active Buzzer”.  This is the next lesson on my Arduino UNO Series covering the Most Complete Starter Kit by Elegoo.   I try to follow the tutorial closely, without overburdening the viewer with every detail, but I will point out any changes or corrections as I find them.
 
@@ -20,7 +20,7 @@ Of course, I’ve added Serial.begin, Serial.print, and Serial.read statements t
 * Active Buzzer (that the one with a white sticker on it)
 * Two female-to-male wire jumpers
 
-The next lesson will be ** Lesson 7 – Passive Buzzer **
+The next lesson will be **Lesson 7 – Passive Buzzer**
 
 ## Links
 
@@ -43,7 +43,7 @@ This lesson’s sketch and associated drawings can be found at [Github](https://
 * Great piezo buzzer explanation - [An easy way to make noise with Arduino using tone()](https://www.youtube.com/watch?v=1_LMAgO14z0&t) - Programming Electronics Academy
 * [LESSON 12: Simple and Easy Way to Read Strings Floats and Ints over Arduino Serial Port](https://www.youtube.com/watch?v=VIa_QZWIonQ) - Paul McWhorter
 
-* Music provided by Free Music Archive, by artist ** Jahzzar ** - [Jahzzar_-_07_-_maniac](http://freemusicarchive.org/music/Jahzzar/)
+* Music provided by Free Music Archive, by artist **Jahzzar** - [Jahzzar_-_07_-_maniac](http://freemusicarchive.org/music/Jahzzar/)
 
 This is the seventh video on a new Arduino tutorial series. If you like the series, be sure to rate and subscribe.
 
