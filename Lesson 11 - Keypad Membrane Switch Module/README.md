@@ -31,7 +31,7 @@ For this video, we’ll need a few things from your Elegoo Arduino kit.  I’ll list
 * Misc jumpers
 * Breadboard
 
-The next lesson will be Lesson 12 – DHT11 Temperature and Humidity Sensor 
+The next lesson will be Lesson ** 12 – DHT11 Temperature and Humidity Sensor **
 
 ## Links
 

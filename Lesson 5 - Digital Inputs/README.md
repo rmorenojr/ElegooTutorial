@@ -2,7 +2,7 @@
 
 ## Lesson 5 – Digital Inputs
 
-A beginner's guide to the Most Complete Starter Kit by Elegoo.  ** Lesson 5 – Digital Inputs **
+A beginner's guide to the Most Complete Starter Kit by Elegoo.  **Lesson 5 – Digital Inputs**
 
 [YouTube Video](https://www.youtube.com/watch?v=rbeHQ80dux8)
 
@@ -23,7 +23,7 @@ Of course, I’ve added Serial.begin and Serial.print statements to view and dia
 * Seven male-to-male wire jumpers
 * And the breadboard
 
-I should also mention that ** Kevin Darrah ** has a great [YouTube video](https://www.youtube.com/watch?v=urLSDi7SD8M) for the low power, deep sleep mode for the Arduino UNO.  You should check it out.
+I should also mention that **Kevin Darrah** has a great [YouTube video](https://www.youtube.com/watch?v=urLSDi7SD8M) for the low power, deep sleep mode for the Arduino UNO.  You should check it out.
 
 The next lesson will be Lesson 6 – Active Buzzer  
 
@@ -40,7 +40,7 @@ This lesson’s sketch and associated drawings can be found at [Github](https://
 * [Arduino Language Reference](https://www.arduino.cc/reference/en/)
 * [attachinterrupt](https//www.arduino.cc/reference/en/language/functions/external-interrupts/attachinterrupt/)
 
-* [Applied Electronics](https://www.youtube.com/watch?v=QslLAPNSEFc) – ** Lynda.com **
+* [Applied Electronics](https://www.youtube.com/watch?v=QslLAPNSEFc) – **Lynda.com**
  
 * [educ8s.tv](https://www.youtube.com/watch?v=jYOYgU2vlSE)
 

@@ -4,7 +4,7 @@
 
 [YouTube video](https://youtu.be/X-3AoN8Subk)
 
-A beginner's guide to the Most Complete Starter Kit by Elegoo.  Lesson 7 – Passive Buzzer
+A beginner's guide to the Most Complete Starter Kit by Elegoo.  **Lesson 7 – Passive Buzzer**
 
 Hello everyone, I'm Rick the Tech Enthusiast here with the next Lesson number 7 “Passive Buzzer”.  This is the next lesson on my Arduino UNO Series covering the Most Complete Starter Kit by Elegoo.   I try to follow the tutorial closely, without overburdening the viewer with every detail, but I will point out any changes or corrections as I find them.
 
@@ -14,7 +14,7 @@ For this video, we’ll need a few things from your Elegoo Arduino kit.  I’ll 
 
 I hope you like the Lesson, it was a lot of fun to make.
 
-### Parts you’ll need for the basic tutorial
+## Parts you’ll need for the basic tutorial
 
 * Arduino UNO R3 board
 * Passive Buzzer (that the one without a white sticker on it – you’ll need two more if you want to do the bonus sketch)
@@ -23,7 +23,7 @@ I hope you like the Lesson, it was a lot of fun to make.
 * Several jumpers
 * Breadboard
 
-### The Bonus Music Player parts
+## The Bonus Music Player parts
 
 * Arduino UNO R3 board
 * Three passive buzzers (links are provided below)
@@ -37,54 +37,35 @@ I hope you like the Lesson, it was a lot of fun to make.
 * Mini breadboard
 * Elegoo prototype board
 
-The next lesson will be Lesson 8 – Tilt Ball Switch and the Magic 8-Ball  
+The next lesson will be **Lesson 8 – Tilt Ball Switch and the Magic 8-Ball**  
 
-Links:
-This lesson’s sketch and associated drawings can be found at Github:
-https://github.com/rmorenojr/ElegooTutorial
+## Links
+
+This lesson’s sketch and associated drawings can be found at [Github](https://github.com/rmorenojr/ElegooTutorial)
  
-Passive Buzzers, Cylewet 10Pcs 5V 2 Terminals, Arduino (Pack of 10) on Amazon’s web site:
-<a target="_blank" href="https://www.amazon.com/gp/product/B01NCOXB2Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01NCOXB2Q&linkCode=as2&tag=rmorenojr-20&linkId=65e4660761a54140f64e954f1770006e">Cylewet 10Pcs 5V 2 Terminals Passive Electronic Alarm Buzzer Electromagnetic Beeper AC Impedance for Arduino (Pack of 10) CYT1008</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=rmorenojr-20&l=am2&o=1&a=B01NCOXB2Q" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<!-- Passive Buzzers, Cylewet 10Pcs 5V 2 Terminals, Arduino (Pack of 10) on Amazon’s web site: -->
+* <a target="_blank" href="https://www.amazon.com/gp/product/B01NCOXB2Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01NCOXB2Q&linkCode=as2&tag=rmorenojr-20&linkId=65e4660761a54140f64e954f1770006e">Cylewet 10Pcs 5V 2 Terminals Passive Electronic Alarm Buzzer Electromagnetic Beeper AC Impedance for Arduino (Pack of 10) CYT1008</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=rmorenojr-20&l=am2&o=1&a=B01NCOXB2Q" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<!-- Elegoo EL-KIT-001 UNO R3 Project Complete Starter Kit with Tutorial for Arduino (63 Items) on Amazon’s web site: --> 
+* <a target="_blank" href="https://www.amazon.com/gp/product/B01CZTLHGE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01CZTLHGE&linkCode=as2&tag=rmorenojr-20&linkId=ac3601531bad9439bc32c77b0088b741">Elegoo EL-KIT-001 UNO R3 Project Complete Starter Kit with Tutorial for Arduino (63 Items)</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=rmorenojr-20&l=am2&o=1&a=B01CZTLHGE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+* [Elegoo’s web site](https://www.elegoo.com/) - [Complete Starter Kit](https://www.elegoo.com/product/elegoo-uno-r3-project-complete-starter-kit/)
 
-Elegoo EL-KIT-001 UNO R3 Project Complete Starter Kit with Tutorial for Arduino (63 Items) on Amazon’s web site:
-<a target="_blank" href="https://www.amazon.com/gp/product/B01CZTLHGE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01CZTLHGE&linkCode=as2&tag=rmorenojr-20&linkId=ac3601531bad9439bc32c77b0088b741">Elegoo EL-KIT-001 UNO R3 Project Complete Starter Kit with Tutorial for Arduino (63 Items)</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=rmorenojr-20&l=am2&o=1&a=B01CZTLHGE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-Elegoo’s web site:
-https://www.elegoo.com/
-https://www.elegoo.com/product/elegoo-uno-r3-project-complete-starter-kit/
+* [Fritzing Software](http://fritzing.org/download/)
 
-Frtizing Software:
-http://fritzing.org/download/
+* [Arduino Language Reference (English)](https://www.arduino.cc/reference/en/)
+* [attachinterrupt](https://www.arduino.cc/reference/en/language/functions/external-interrupts/attachinterrupt/)
+* [Arduino tone() function](https://www.arduino.cc/reference/en/language/functions/advanced-io/tone/)
+* [Arduino Playing tones on Multiple outputs using the tone() function](https://www.arduino.cc/en/Tutorial/ToneMultiple)
 
-Arduino Language Reference (English):
-https://www.arduino.cc/reference/en/
-https://www.arduino.cc/reference/en/language/functions/external-interrupts/attachinterrupt/
-Arduino tone() function:
-https://www.arduino.cc/reference/en/language/functions/advanced-io/tone/
-Arduino Playing tones on Multiple outputs using the tone() function
-https://www.arduino.cc/en/Tutorial/ToneMultiple
+* [Tone.h library](https://github.com/bhagman/Tone)
+* [An easy way to make noise with Arduino using tone()](https://www.youtube.com/watch?v=1_LMAgO14z0&t) - by Programming Electronics Academy
+* Great piezo buzzer explanation [An easy way to make noise with Arduino using tone()](https://www.youtube.com/watch?v=1_LMAgO14z0&t) - Programming Electronics Academy
+* [Happy Birthday Melody on Arduino Nano With 3-way Polyphony](https://www.hackster.io/liss/happy-birthday-melody-on-arduino-nano-with-3-way-polyphony-c80c31) by Liss
+* [Arduino + Star Wars Imperial March (Buzzer/Piezo)](https://www.youtube.com/watch?v=83xHpj3PstI) by Profe-Electro
+* [Super Mario Bros. Overworld Theme (old version)](https://pastebin.com/AKR5VL87) by Ignacio Castillo Ãlvarez
+* [Overworld / Main Theme](http://www.mariopiano.com/midi-sound-file-overworld-main-theme.html) by mariopiano.com
 
-Tone.h library
-https://github.com/bhagman/Tone
+* Music provided by Free Music Archive, by artist Jahzzar - [Jahzzar_-_12_-_Birthday_Cake](http://freemusicarchive.org/music/Jahzzar/)
 
-An easy way to make noise with Arduino using tone() - by Programming Electronics Academy
-https://www.youtube.com/watch?v=1_LMAgO14z0&t
+This is another video for my new Arduino tutorial series. If you like the series, be sure to rate and subscribe.
 
-Great piezo buzzer explanation:
-An easy way to make noise with Arduino using tone() - Programming Electronics Academy
-https://www.youtube.com/watch?v=1_LMAgO14z0&t
-
-Happy Birthday Melody on Arduino Nano With 3-way Polyphony by Liss
-https://www.hackster.io/liss/happy-birthday-melody-on-arduino-nano-with-3-way-polyphony-c80c31
-
-Arduino + Star Wars Imperial March (Buzzer/Piezo) by Profe-Electro
-https://www.youtube.com/watch?v=83xHpj3PstI
-
-Super Mario Bros. Overworld Theme (old version) by Ignacio Castillo Ãlvarez
-https://pastebin.com/AKR5VL87
-
-Overworld / Main Theme by mariopiano.com
-http://www.mariopiano.com/midi-sound-file-overworld-main-theme.html
-
-Music provided by Free Music Archive, by artist Jahzzar
-Jahzzar_-_12_-_Birthday_Cake
-http://freemusicarchive.org/music/Jahzzar/
+Thanks for watching
