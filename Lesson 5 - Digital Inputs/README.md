@@ -1,8 +1,10 @@
-# Lesson 5 – Digital Inputs
+﻿# ElegooTutorial
 
-A beginner's guide to the Most Complete Starter Kit by Elegoo.  Lesson 5 – Digital Inputs
+## Lesson 5 – Digital Inputs
 
-Video located here: https://www.youtube.com/watch?v=rbeHQ80dux8
+A beginner's guide to the Most Complete Starter Kit by Elegoo.  ** Lesson 5 – Digital Inputs **
+
+[YouTube Video](https://www.youtube.com/watch?v=rbeHQ80dux8)
 
 Hello everyone, I'm Rick the Tech Enthusiast again, with the next Lesson number 5 “Digital Inputs”.  This is the next lesson on my Arduino UNO Series covering the Most Complete Starter Kit by Elegoo.   I try to follow the tutorial closely, without overburdening the viewer with every detail, but I will point out any changes or corrections as I find them.
 
@@ -12,43 +14,37 @@ For this video, we’ll need a few things from your Elegoo Arduino kit.  I’ll 
 
 Of course, I’ve added Serial.begin and Serial.print statements to view and diagnose the code in the Serial Monitor.  I hope you like the Lesson, it was a lot of fun to make.
 
-Parts you’ll need:
+## Parts you’ll need for the basic tutorial
 
-Arduino UNO R3 board
-5mm LED
-220 ohm resistor
-Two pushbutton switches
-Seven male-to-male wire jumpers
-And the breadboard
+* Arduino UNO R3 board
+* 5mm LED
+* 220 ohm resistor
+* Two pushbutton switches
+* Seven male-to-male wire jumpers
+* And the breadboard
 
-I should also mention that Kevin Darrah has a great video for the low power, deep sleep mode for the Arduino UNO.  You should check it out.
-https://www.youtube.com/watch?v=urLSDi7SD8M
+I should also mention that ** Kevin Darrah ** has a great [YouTube video](https://www.youtube.com/watch?v=urLSDi7SD8M) for the low power, deep sleep mode for the Arduino UNO.  You should check it out.
 
 The next lesson will be Lesson 6 – Active Buzzer  
 
-Links:
+## Links
 
-<a target="_blank" href="https://www.amazon.com/gp/product/B01CZTLHGE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01CZTLHGE&linkCode=as2&tag=rmorenojr-20&linkId=ac3601531bad9439bc32c77b0088b741">Elegoo EL-KIT-001 UNO R3 Project Complete Starter Kit with Tutorial for Arduino (63 Items)</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=rmorenojr-20&l=am2&o=1&a=B01CZTLHGE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+This lesson’s sketch and associated drawings can be found at [Github](https://github.com/rmorenojr/ElegooTutorial)
 
-Elegoo’s web site:
-https://www.elegoo.com/
-https://www.elegoo.com/product/elegoo-uno-r3-project-complete-starter-kit/
+* <a target="_blank" href="https://www.amazon.com/gp/product/B01CZTLHGE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01CZTLHGE&linkCode=as2&tag=rmorenojr-20&linkId=ac3601531bad9439bc32c77b0088b741">Elegoo EL-KIT-001 UNO R3 Project Complete Starter Kit with Tutorial for Arduino (63 Items)</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=rmorenojr-20&l=am2&o=1&a=B01CZTLHGE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+* [Elegoo’s web site](https://www.elegoo.com/)
+* [Elegoo's Complete Starter Kit](https://www.amazon.com/gp/product/B01CZTLHGE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01CZTLHGE&linkCode=as2&tag=rmorenojr-20&linkId=ac3601531bad9439bc32c77b0088b741) - [web site](https://www.elegoo.com/product/elegoo-uno-r3-project-complete-starter-kit/)
 
-Frtizing Software:
-http://fritzing.org/download/
+* [Frtizing Software](http://fritzing.org/download/)
 
-Language Reference (English):
-https://www.arduino.cc/reference/en/
-https//www.arduino.cc/reference/en/language/functions/external-interrupts/attachinterrupt/
+* [Arduino Language Reference](https://www.arduino.cc/reference/en/)
+* [attachinterrupt](https//www.arduino.cc/reference/en/language/functions/external-interrupts/attachinterrupt/)
 
-Applied Electronics – Lynda.com
-https://www.youtube.com/watch?v=QslLAPNSEFc
+* [Applied Electronics](https://www.youtube.com/watch?v=QslLAPNSEFc) – ** Lynda.com **
  
-educ8s.tv
-https://www.youtube.com/watch?v=jYOYgU2vlSE
+* [educ8s.tv](https://www.youtube.com/watch?v=jYOYgU2vlSE)
 
-Kevin Darrah - Low Power Arduino! Deep Sleep Tutorial
-https://www.youtube.com/watch?v=urLSDi7SD8M
+* [Kevin Darrah - Low Power Arduino! Deep Sleep Tutorial](https://www.youtube.com/watch?v=urLSDi7SD8M)
 
 This is the sixth video on a new Arduino tutorial series. If you like the series, be sure to rate and subscribe.
 

@@ -1,6 +1,8 @@
-# ElegooTutorial
+﻿# ElegooTutorial
 
 ## Lesson 4 - RGB LED
+
+[Youtube Video](https://youtu.be/uNO4HSl6Ldw)
 
 A beginner's guide to the Most Complete Starter Kit by Elegoo.  Lesson 4 – RGB LED
 
@@ -18,28 +20,24 @@ In this video, we’ll need a few things from your Elegoo Arduino kit.  I’ll l
 * Four male-to-male wire jumpers
 * Breadboard
 
-I should also mention that Paul McWhorter has a great programming series for the Arduino UNO.  You should check it out.
-https://www.youtube.com/watch?v=d8_xXNcGYgo&list=PLGs0VKk2DiYx6CMdOQR_hmJ2NbB4mZQn-
+I should also mention that ** Paul McWhorter ** has a great [programming series for the Arduino UNO](https://www.youtube.com/watch?v=d8_xXNcGYgo&list=PLGs0VKk2DiYx6CMdOQR_hmJ2NbB4mZQn-).  You should check it out.
  
 The next lesson will be Lesson 5 – Digital Inputs  
 
 ## Links
 
-<a target="_blank" href="https://www.amazon.com/gp/product/B01CZTLHGE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01CZTLHGE&linkCode=as2&tag=rmorenojr-20&linkId=ac3601531bad9439bc32c77b0088b741">Elegoo EL-KIT-001 UNO R3 Project Complete Starter Kit with Tutorial for Arduino (63 Items)</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=rmorenojr-20&l=am2&o=1&a=B01CZTLHGE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+* <a target="_blank" href="https://www.amazon.com/gp/product/B01CZTLHGE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01CZTLHGE&linkCode=as2&tag=rmorenojr-20&linkId=ac3601531bad9439bc32c77b0088b741">Elegoo EL-KIT-001 UNO R3 Project Complete Starter Kit with Tutorial for Arduino (63 Items)</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=rmorenojr-20&l=am2&o=1&a=B01CZTLHGE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+* [Elegoo’s web site](https://www.elegoo.com/)
+* [Elegoo's Complete Starter Kit](https://www.amazon.com/gp/product/B01CZTLHGE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01CZTLHGE&linkCode=as2&tag=rmorenojr-20&linkId=ac3601531bad9439bc32c77b0088b741) - [web site](https://www.elegoo.com/product/elegoo-uno-r3-project-complete-starter-kit/)
 
-[Elegoo’s web site](https://www.elegoo.com/)
+* [Frtizing Software](http://fritzing.org/download/)
 
-[Elegoo's Complete Starter Kit](https://www.amazon.com/gp/product/B01CZTLHGE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01CZTLHGE&linkCode=as2&tag=rmorenojr-20&linkId=ac3601531bad9439bc32c77b0088b741) - [web site](https://www.elegoo.com/product/elegoo-uno-r3-project-complete-starter-kit/)
+* [Arduino Language Reference](https://www.arduino.cc/reference/en/)
 
-[Frtizing Software](http://fritzing.org/download/)
+* [LESSON 13: Controlling an RGB LED with Arduino](https://www.youtube.com/watch?v=gqAHOoqo3OI) – by Paul McWhorter
+* [HowToMechantronics](http://howtomechatronics.com/tutorials/arduino/how-to-use-a-rgb-led-with-arduino/)
 
-[LESSON 13: Controlling an RGB LED with Arduino](https://www.youtube.com/watch?v=gqAHOoqo3OI) – by Paul McWhorter
-
-[Arduino Language Reference](https://www.arduino.cc/reference/en/)
-
-[HowToMechantronics](http://howtomechatronics.com/tutorials/arduino/how-to-use-a-rgb-led-with-arduino/)
-
-Music provided by Free Music Archive, by artist [Jahzzar](http://freemusicarchive.org/search/?sort=track_date_published&d=1&quicksearch=jahzzar)
+* Music provided by Free Music Archive, by artist [Jahzzar](http://freemusicarchive.org/search/?sort=track_date_published&d=1&quicksearch=jahzzar)
 
 This is the fifth video on a new Arduino tutorial series. If you like the series, be sure to rate and subscribe.
 
