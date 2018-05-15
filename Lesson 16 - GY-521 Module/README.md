@@ -3,7 +3,7 @@
 ## Lesson 16 – GY-521 Module & MPU-6050 
 
 <!-- [[./octocat.png|alt=octocat]] -->
-[![YouTube video](https://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](https://youtu.be/y5X2zwbO6e4)
+[![YouTube video](https://img.youtube.com/vi/y5X2zwbO6e4/0.jpg)](https://youtu.be/y5X2zwbO6e4)
 [YouTube video](https://youtu.be/y5X2zwbO6e4)
 
 GY-521-Module & MPU-6050.  Demonstrate the Elegoo sketch provided in the tutorial covering the GY-521-Module which uses a 6-axis, 6 DOF, MEMS MPU-6050.  A beginner's guide to the Most Complete Starter Kit by Elegoo.
