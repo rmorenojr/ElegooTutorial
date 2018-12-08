@@ -6,13 +6,13 @@
 [![YouTube video](https://img.youtube.com/vi/y5X2zwbO6e4/0.jpg)](https://youtu.be/h-EZ0KSqqw0)
 [YouTube video](https://youtu.be/h-EZ0KSqqw0)
 
-ZS-042 Module aka. DS3231 RTC Module with AT24C32N EEprom chip and CR3032 battery.  Demonstrate the Elegoo sketch provided in the tutorial covering the DS3231 RTC Module.  Then I show my RTC alarm clock with my custom SimpleAlarmClock Library.  A beginner's guide to the Most Complete Starter Kit by Elegoo.
+ZS-042 Module aka. DS3231 RTC Module with AT24C32N EEprom chip and CR2032 battery.  Demonstrate the Elegoo sketch provided in the tutorial covering the DS3231 RTC Module.  Then I show my RTC alarm clock with my custom SimpleAlarmClock Library.  A beginner's guide to the Most Complete Starter Kit by Elegoo.
 
 Hello everyone, I'm Rick the Tech Enthusiast here with the next Elegoo Lesson.  This is the next lesson on my Arduino UNO Series covering the Most Complete Starter Kit by Elegoo.   I try to follow the included tutorial and will point out any changes or corrections as I find them.
 
 As mentioned before, I purchased this Elegoo starter kit and Elegoo isn't sponsoring me.  I just thought it would be fun to do a video of each Lesson as I was learning the Arduino environment. 
 
-We値l need a few things from your Elegoo Arduino UNO kit.  I値l list the items below.  In this lesson we池e going to check out the DS3231 RTC module, aka. ZS-042 module.  The ZS-042 module includes a DS3231 real time clock and calendar, AT24C32N EEPROM chip, and CR3032 battery.  I値l step through the Elegoo provided tutorial and briefly explain how code makes this happen.  We値l build and configure a simple circuit that is provided in the tutorial to demonstrate the functionality.  Then will show an alarm clock circuit, complete with snooze alarm, and new SimpleAlarmClock.h library.  I hope you enjoy it. 
+We値l need a few things from your Elegoo Arduino UNO kit.  I値l list the items below.  In this lesson we池e going to check out the DS3231 RTC module, aka. ZS-042 module.  The ZS-042 module includes a DS3231 real time clock and calendar, AT24C32N EEPROM chip, and CR2032 battery.  I値l step through the Elegoo provided tutorial and briefly explain how code makes this happen.  We値l build and configure a simple circuit that is provided in the tutorial to demonstrate the functionality.  Then will show an alarm clock circuit, complete with snooze alarm, and new SimpleAlarmClock.h library.  I hope you enjoy it. 
 
 ## Parts you値l need for the tutorial
 
